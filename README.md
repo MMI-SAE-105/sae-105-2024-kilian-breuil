@@ -3,11 +3,11 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
+- NOM : Breuil
+- PRÉNOM : Kilian
+- GROUPE : A2
 - URL du site :
-- URL FIGMA :
+- URL FIGMA : https://www.figma.com/design/VvFK7TPv1FXnFW7bNdpmED/SAE-105?node-id=3-31&t=UY3QfDMOKXD02B9A-1
 
 ## Sujet
 
