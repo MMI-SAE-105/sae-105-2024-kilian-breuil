@@ -1,0 +1,33 @@
+.carouselcontrols {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    margin: 16px 0;
+  }
+
+  
+  .carouselcontainer {
+    display:flex;
+   
+    overflow: scroll;
+    margin-left: -24px;
+    margin-right: -24px;
+    scroll-snap-type: x mandatory;
+  }
+  
+  .carouselitem {
+    flex: 1 0 75%;
+    scroll-snap-align: center;
+  }
+  
+  .carouselitem img {
+   display: block;
+  }
+  
+  .carousel__liste{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  scroll-behavior: smooth;
+  }
