@@ -1,10 +1,14 @@
 .footer {
-  background-color: var(--gray-800);
+  background-color: var(--footer);
   color: var(--white);
-  padding: var(--space3x);
+  padding: 10px;
   font-size: var(--fs-s);
 }
 
 .footer__copyright {
-  color: var(--gray-600);
+  color: black;
+}
+
+.menu__social-network {
+  margin-right: 30%;
 }

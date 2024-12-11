@@ -78,5 +78,24 @@ textarea {
 }
 
 .partenaire {
-  
+  text-align: center;
+  font-size: var(--fs-xl);
+}
+
+.partenaire__logo {
+  display: flex;
+  justify-content: center;
+  gap : 10px;
+}
+
+.partenaire__institutionnel {
+  text-align: center;
+  font-size: var(--fs-xl);
+}
+
+.partenaire__institutionnel__logo {
+  display: flex;
+  justify-content: center;
+  height: 45px;
+  gap: 10px;
 }

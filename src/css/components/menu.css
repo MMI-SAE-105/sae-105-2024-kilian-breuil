@@ -60,7 +60,7 @@
 .menu-btn__bar::before,
 .menu-btn__bar::after {
   content: "";
-  background: black;
+  background: white;
   height: 2px;
   width: 100%;
   position: absolute;
@@ -84,7 +84,7 @@ Ne pas oublier d'ajouter une transition plus haut pour l'animation */
 .menu-btn[aria-expanded="true"] .menu-btn__bar::before,
 .menu-btn[aria-expanded="true"] .menu-btn__bar::after {
   transform: rotate(135deg);
-  background: black
+  background: white;
 }
 
 .menu-btn[aria-expanded="true"] .menu-btn__bar::before,
