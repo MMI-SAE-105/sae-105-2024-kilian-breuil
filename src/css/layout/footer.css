@@ -1,8 +1,9 @@
 .footer {
   background-color: var(--footer);
   color: var(--white);
-  padding: 10px;
+  padding: var(--space3x);
   font-size: var(--fs-s);
+  margin-top: 50px;
 }
 
 .footer__copyright {
