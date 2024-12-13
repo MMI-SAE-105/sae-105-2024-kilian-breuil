@@ -134,3 +134,7 @@ textarea {
 .titre__programme {
   text-align: center;
 }
+
+.rectangle__contact {
+  border: 1px solid black;
+}
